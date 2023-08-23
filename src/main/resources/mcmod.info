@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "fmhelper",
+  "name": "Fancy Menu Helper",
+  "description": "A simple mod that extends some functions of Fancy Menu",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
+  "authorList": ["Kompreya"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
