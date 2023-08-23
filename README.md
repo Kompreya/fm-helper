@@ -8,4 +8,5 @@ Note: Before requesting a new feature, please check with the Fancy Menu Discord 
 
 ### Statistics Helper
 
-
+Writes the raw path to the current single player world's stats .json file to /config/fmhelper/statshelper.json, allowing Fancy Menu json placeholders to properly resolve the path to it. 
+Example usage found here
