@@ -10,3 +10,5 @@ Note: Before requesting a new feature, please check with the Fancy Menu Discord 
 
 Writes the raw path to the current single player world's stats .json file to /config/fmhelper/statshelper.json, allowing Fancy Menu json placeholders to properly resolve the path to it. 
 Refer to the wiki for example usage.
+
+Includes a command to dump stat IDs to a file.
